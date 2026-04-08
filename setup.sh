@@ -53,8 +53,8 @@ echo "Configuring Git..."
 read -p "Enter your Git user name (default: Fei Xiang): " git_name
 git_name=${git_name:-"Fei Xiang"}
 
-read -p "Enter your Git email (default: xiafei01@gmail.com): " git_email
-git_email=${git_email:-"xiafei01@gmail.com"}
+read -p "Enter your Git email (default: xflesym@gmail.com): " git_email
+git_email=${git_email:-"xflesym@gmail.com"}
 
 git config --global user.name "$git_name"
 git config --global user.email "$git_email"

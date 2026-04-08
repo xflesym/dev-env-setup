@@ -5,7 +5,7 @@ Automated development environment setup for macOS. One command to bootstrap a ne
 ## Quick Start
 
 ```bash
-git clone https://github.com/xiafei01/dev-env-setup.git
+git clone https://github.com/xflesym/dev-env-setup.git
 cd dev-env-setup
 bash setup.sh
 ```
