@@ -27,7 +27,7 @@ done
 
 # GitHub username
 read -p "GitHub username (for gh CLI auth): " github_username
-while [[ -z "$github_username" ]]; then
+while [[ -z "$github_username" ]]; do
   read -p "GitHub username (required): " github_username
 done
 
